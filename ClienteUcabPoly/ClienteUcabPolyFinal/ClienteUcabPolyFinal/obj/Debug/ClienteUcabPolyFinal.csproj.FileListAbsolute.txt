@@ -1,0 +1,135 @@
+C:\Users\Christian D\source\repos\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe.config
+C:\Users\Christian D\source\repos\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe
+C:\Users\Christian D\source\repos\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\Christian D\source\repos\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csprojResolveAssemblyReference.cache
+C:\Users\Christian D\source\repos\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Interfaz.resources
+C:\Users\Christian D\source\repos\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Properties.Resources.resources
+C:\Users\Christian D\source\repos\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.GenerateResource.Cache
+C:\Users\Christian D\source\repos\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CoreCompileInputs.cache
+C:\Users\Christian D\source\repos\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.exe
+C:\Users\Christian D\source\repos\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\Christian D\Desktop\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe.config
+C:\Users\Christian D\Desktop\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe
+C:\Users\Christian D\Desktop\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\Christian D\Desktop\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csprojResolveAssemblyReference.cache
+C:\Users\Christian D\Desktop\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Interfaz.resources
+C:\Users\Christian D\Desktop\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Properties.Resources.resources
+C:\Users\Christian D\Desktop\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.GenerateResource.Cache
+C:\Users\Christian D\Desktop\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CoreCompileInputs.cache
+C:\Users\Christian D\Desktop\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.exe
+C:\Users\Christian D\Desktop\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\zlGam\Desktop\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe.config
+C:\Users\zlGam\Desktop\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe
+C:\Users\zlGam\Desktop\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\zlGam\Desktop\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csprojResolveAssemblyReference.cache
+C:\Users\zlGam\Desktop\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Interfaz.resources
+C:\Users\zlGam\Desktop\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Properties.Resources.resources
+C:\Users\zlGam\Desktop\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.GenerateResource.cache
+C:\Users\zlGam\Desktop\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CoreCompileInputs.cache
+C:\Users\zlGam\Desktop\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.exe
+C:\Users\zlGam\Desktop\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.pdb
+D:\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe.config
+D:\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe
+D:\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.pdb
+D:\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csprojResolveAssemblyReference.cache
+D:\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Interfaz.resources
+D:\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Properties.Resources.resources
+D:\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.GenerateResource.cache
+D:\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CoreCompileInputs.cache
+D:\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.exe
+D:\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\Christian D\Desktop\ProyectoRedes\ParaFran (1)\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe.config
+C:\Users\Christian D\Desktop\ProyectoRedes\ParaFran (1)\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe
+C:\Users\Christian D\Desktop\ProyectoRedes\ParaFran (1)\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\Christian D\Desktop\ProyectoRedes\ParaFran (1)\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csprojResolveAssemblyReference.cache
+C:\Users\Christian D\Desktop\ProyectoRedes\ParaFran (1)\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Interfaz.resources
+C:\Users\Christian D\Desktop\ProyectoRedes\ParaFran (1)\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Properties.Resources.resources
+C:\Users\Christian D\Desktop\ProyectoRedes\ParaFran (1)\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.GenerateResource.Cache
+C:\Users\Christian D\Desktop\ProyectoRedes\ParaFran (1)\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CoreCompileInputs.cache
+C:\Users\Christian D\Desktop\ProyectoRedes\ParaFran (1)\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.exe
+C:\Users\Christian D\Desktop\ProyectoRedes\ParaFran (1)\ParaFran\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\zlGam\Desktop\ProyectoRedes\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csprojResolveAssemblyReference.cache
+C:\Users\zlGam\Desktop\ProyectoRedes\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Interfaz.resources
+C:\Users\zlGam\Desktop\ProyectoRedes\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Properties.Resources.resources
+C:\Users\zlGam\Desktop\ProyectoRedes\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.GenerateResource.cache
+C:\Users\zlGam\Desktop\ProyectoRedes\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CoreCompileInputs.cache
+C:\Users\zlGam\Desktop\ProyectoRedes\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.exe
+C:\Users\zlGam\Desktop\ProyectoRedes\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\zlGam\Desktop\ProyectoRedes\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe.config
+C:\Users\zlGam\Desktop\ProyectoRedes\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe
+C:\Users\zlGam\Desktop\ProyectoRedes\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\zlGam\Desktop\ProyectoRedes\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zlGam\Desktop\ProyectoRedes\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zlGam\Desktop\ProyectoRedes\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CopyComplete
+E:\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csprojResolveAssemblyReference.cache
+E:\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Interfaz.resources
+E:\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Properties.Resources.resources
+E:\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.GenerateResource.cache
+E:\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CoreCompileInputs.cache
+E:\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.exe
+E:\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.pdb
+E:\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe.config
+E:\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe
+E:\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.pdb
+E:\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\Newtonsoft.Json.xml
+E:\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CopyComplete
+C:\Users\zlGam\Desktop\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe.config
+C:\Users\zlGam\Desktop\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe
+C:\Users\zlGam\Desktop\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\zlGam\Desktop\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zlGam\Desktop\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csprojResolveAssemblyReference.cache
+C:\Users\zlGam\Desktop\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Interfaz.resources
+C:\Users\zlGam\Desktop\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Properties.Resources.resources
+C:\Users\zlGam\Desktop\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.GenerateResource.cache
+C:\Users\zlGam\Desktop\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CoreCompileInputs.cache
+C:\Users\zlGam\Desktop\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CopyComplete
+C:\Users\zlGam\Desktop\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.exe
+C:\Users\zlGam\Desktop\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.pdb
+E:\REDESANEXUZ\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe.config
+E:\REDESANEXUZ\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe
+E:\REDESANEXUZ\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.pdb
+E:\REDESANEXUZ\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\Newtonsoft.Json.xml
+E:\REDESANEXUZ\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csprojAssemblyReference.cache
+E:\REDESANEXUZ\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Interfaz.resources
+E:\REDESANEXUZ\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Properties.Resources.resources
+E:\REDESANEXUZ\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.GenerateResource.cache
+E:\REDESANEXUZ\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CoreCompileInputs.cache
+E:\REDESANEXUZ\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CopyComplete
+E:\REDESANEXUZ\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.exe
+E:\REDESANEXUZ\Anexuz\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\zlGam\Desktop\Anexuz1.1\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe.config
+C:\Users\zlGam\Desktop\Anexuz1.1\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe
+C:\Users\zlGam\Desktop\Anexuz1.1\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\zlGam\Desktop\Anexuz1.1\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zlGam\Desktop\Anexuz1.1\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csprojResolveAssemblyReference.cache
+C:\Users\zlGam\Desktop\Anexuz1.1\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Interfaz.resources
+C:\Users\zlGam\Desktop\Anexuz1.1\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Properties.Resources.resources
+C:\Users\zlGam\Desktop\Anexuz1.1\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.GenerateResource.cache
+C:\Users\zlGam\Desktop\Anexuz1.1\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CoreCompileInputs.cache
+C:\Users\zlGam\Desktop\Anexuz1.1\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CopyComplete
+C:\Users\zlGam\Desktop\Anexuz1.1\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.exe
+C:\Users\zlGam\Desktop\Anexuz1.1\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\zlGam\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe.config
+C:\Users\zlGam\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe
+C:\Users\zlGam\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\zlGam\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zlGam\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csprojResolveAssemblyReference.cache
+C:\Users\zlGam\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Interfaz.resources
+C:\Users\zlGam\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Properties.Resources.resources
+C:\Users\zlGam\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.GenerateResource.cache
+C:\Users\zlGam\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CoreCompileInputs.cache
+C:\Users\zlGam\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CopyComplete
+C:\Users\zlGam\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.exe
+C:\Users\zlGam\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\alber\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe.config
+C:\Users\alber\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.exe
+C:\Users\alber\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\ClienteUcabPolyFinal.pdb
+C:\Users\alber\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alber\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csprojResolveAssemblyReference.cache
+C:\Users\alber\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Interfaz.resources
+C:\Users\alber\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.Properties.Resources.resources
+C:\Users\alber\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.GenerateResource.cache
+C:\Users\alber\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.csproj.CopyComplete
+C:\Users\alber\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.exe
+C:\Users\alber\Desktop\Anexuz1.3\ClienteUcabPoly\ClienteUcabPolyFinal\ClienteUcabPolyFinal\obj\Debug\ClienteUcabPolyFinal.pdb
